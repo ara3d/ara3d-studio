@@ -13,7 +13,11 @@ This repository is for making releases, tracking issues, and the roadmap.
 
 ## Registration
 
-Ara 3D Studio requires a free registration to be used for commercial purposes. This allows us to track install rates, and to justify our investment of time. 
+Ara 3D Studio requires a free registration to be used for commercial purposes. This allows us to track installation. 
+
+## Privacy 
+
+We track no usage metrics and send no data to servers other than the initial registration email address and supplied user name.  
 
 ## Features 
 
