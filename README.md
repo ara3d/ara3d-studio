@@ -2,7 +2,9 @@
 
 **Ara 3D Studio** is a free Windows desktop application for loading, viewing, and querying large 3D models in architecture, engineering, construction, and urban planning.
 
-> **Note:** Ara 3D Studio is free to use but **not open-source**. The plugin and scripting ecosystem is built on the fully open-source [Ara 3D SDK](https://github.com/ara3d/ara3d-sdk).
+The plugin and scripting ecosystem is built on the fully open-source and dependency free [Ara 3D SDK](https://github.com/ara3d/ara3d-sdk).
+
+> **Note:** The Ara 3D Studio application is free to use but **not open-source**. 
 
 ---
 
@@ -12,8 +14,6 @@ This repository hosts:
 - **Releases** (installers and portable builds)
 - **Issue tracking** for Ara 3D Studio
 - **Roadmap** and announcements
-
-Source code for Ara 3D Studio is not public. The SDK source lives in the separate, open-source repo: [ara3d/ara3d-sdk](https://github.com/ara3d/ara3d-sdk).
 
 ---
 
@@ -97,8 +97,9 @@ Only the registration details you explicitly provide (email and name) for commer
 
 ## Show your support
 
-We don’t accept donations. If Ara 3D Studio helps you, please:
+We don’t accept donations. If you want to show your support for Ara 3D Studio please:
 - Open issues with clear repro steps and files when possible
+- Suggest features 
 - Share feedback on workflows you’d like to streamline
 - Tell colleagues who might benefit
 
@@ -106,5 +107,5 @@ We don’t accept donations. If Ara 3D Studio helps you, please:
 
 ## License
 
-- **Ara 3D Studio:** proprietary, free to use (see `LICENSE` in this repo)
-- **Ara 3D SDK:** open-source (MIT) — see the SDK repo for details
+- **Ara 3D Studio:** proprietary, free to use for commercial or personal usage.
+- **Ara 3D SDK:** open-source (MIT) — see the [SDK repo](https://github.com/ara3d/ara3d-sdk) for details
