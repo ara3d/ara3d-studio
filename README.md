@@ -41,8 +41,24 @@ By making Ara 3D Studio free, we:
 
 The more people use Ara 3D Studio, the more powerful the SDK becomes — and the closer we get to reshaping how the AEC industry designs, analyzes, and builds.  
 
-> **Q: Why is this not open-source?**
-...
+> **Q: Who is Ara 3D Studio for?**
+
+Architects, engineers, BIM managers, VDC specialists, software developers, and researchers who want to work with large 3D models more efficiently. 
+It's designed for professionals who need performance and flexibility beyond what legacy tools provide.
+
+> **Q: How does Ara 3D Studio compare to existing AEC tools?**
+
+Traditional AEC software was designed 20+ years ago and struggles with modern workflows and large models. Ara 3D Studio is lightweight, data-driven, performant and built for today’s hardware using modern software practices. 
+It’s not a replacement for authoring tools like Revit or Rhino — instead, it’s a companion tool for querying, analyzing, and experimenting with models.
+
+> **Q: Can I use this in my company?**
+
+Yes. Ara 3D Studio is free to use in both personal and commercial projects.
+
+> **Q: How does Ara 3D make money?**
+
+We develop commercial services, libraries, and integrations.  
+If your team wants deeper integration, custom workflows, or enterprise-level support, reach out to us at [info@ara3d.com](mailto:info@ara3d.com).
 
 ## Show your Support
 
