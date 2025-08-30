@@ -4,8 +4,6 @@
 
 The plugin and scripting ecosystem is built on the fully open-source and dependency free [Ara 3D SDK](https://github.com/ara3d/ara3d-sdk).
 
-> **Note:** The Ara 3D Studio application is free to use but **not open-source**.
-
 | <img width="848" height="537" alt="Montreal GLB file" src="https://github.com/user-attachments/assets/f88d3144-adb4-4c3e-9d96-709f3c515afa" /> |
 |:--:|
 | <sub>Thanks to <a href="https://www.cityweft.com/">Cityweft</a> for providing the test .GLB file of Montreal shown here</sub> |
@@ -92,19 +90,16 @@ Through commercial services, libraries, integrations, and enterprise support bui
 **Q: What data leaves my machine?**  
 Only the registration details you explicitly provide (email and name) for commercial licenses. No telemetry or model data is sent.
 
-**Q: How can I contribute?**  
-- Build plug-ins and scripts with the **[Ara 3D SDK](https://github.com/ara3d/ara3d-sdk)**  
-- File bugs and feature requests in this repo’s **Issues**  
-- Share example datasets and workflows that stress real-world needs
-
 ---
 
-## Show your support
+## Support and Contribute
 
 If you want to show your support for Ara 3D Studio please:
-- Open issues with clear repro steps and files when possible
-- Suggest features 
+- Report issues with clear repro steps and files when possible
+- Build plug-ins and scripts with the **[Ara 3D SDK](https://github.com/ara3d/ara3d-sdk)**  
+- Suggest features and enhancements 
 - Share feedback on workflows you’d like to streamline
+- Share example datasets and workflows that stress real-world needs
 - Tell colleagues who might benefit
 
 ---
