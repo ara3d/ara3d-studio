@@ -1,10 +1,14 @@
 # Ara 3D Studio
 
-**Ara 3D Studio** is a free Windows desktop application for loading, viewing, and querying large 3D models in architecture, engineering, construction, and urban planning.
+**Ara 3D Studio** is a free Windows desktop application for loading, viewing, and querying large 3D models such as those used in architecture, engineering, construction, and urban planning.
 
 The plugin and scripting ecosystem is built on the fully open-source and dependency free [Ara 3D SDK](https://github.com/ara3d/ara3d-sdk).
 
-> **Note:** The Ara 3D Studio application is free to use but **not open-source**. 
+> **Note:** The Ara 3D Studio application is free to use but **not open-source**.
+
+| <img width="848" height="537" alt="Montreal GLB file" src="https://github.com/user-attachments/assets/f88d3144-adb4-4c3e-9d96-709f3c515afa" /> |
+|:--:|
+| <sub>Thanks to <a href="https://www.cityweft.com/">Cityweft</a> for providing the test .GLB file of Montreal shown here</sub> |
 
 ---
 
@@ -37,7 +41,7 @@ Ara 3D Studio supports both personal and commercial use.
 ## Privacy
 
 Ara 3D Studio does **not** collect usage analytics or model data.  
-The only data we store is what you provide during registration (email and name) when a commercial license is requested.
+The only data we store is what you provide during registration (email and a user name). 
 
 ---
 
@@ -97,7 +101,7 @@ Only the registration details you explicitly provide (email and name) for commer
 
 ## Show your support
 
-We don’t accept donations. If you want to show your support for Ara 3D Studio please:
+If you want to show your support for Ara 3D Studio please:
 - Open issues with clear repro steps and files when possible
 - Suggest features 
 - Share feedback on workflows you’d like to streamline
