@@ -8,6 +8,8 @@ The plugin and scripting ecosystem is built on the fully open-source and depende
 |:--:|
 | <sub>Thanks to <a href="https://www.cityweft.com/">Cityweft</a> for providing the test .GLB file of Montreal shown here</sub> |
 
+Download the [latest release here](https://github.com/ara3d/ara3d-studio/releases). 
+
 ---
 
 ## About this repository
