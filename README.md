@@ -1,30 +1,28 @@
 # Ara 3D Studio
 
-**Ara 3D Studio** is a free Windows desktop application for loading, viewing, and querying large 3D models such as those used in architecture, engineering, construction, and urban planning.
+[**Ara 3D Studio**](https://github.com/ara3d/ara3d-studio/releases) is a free Windows desktop application for loading, viewing, and querying large 3D models such as those used in architecture, engineering, construction, and urban planning. You can load GLTF, GLB, VIM, DAE,  
 
-The plugin and scripting ecosystem is built on the fully open-source and dependency free [Ara 3D SDK](https://github.com/ara3d/ara3d-sdk).
+The plugin and scripting ecosystem and geometry kernel is built on the fully open-source and dependency free [Ara 3D SDK](https://github.com/ara3d/ara3d-sdk).
 
 | <img width="848" height="537" alt="Montreal GLB file" src="https://github.com/user-attachments/assets/f88d3144-adb4-4c3e-9d96-709f3c515afa" /> |
 |:--:|
 | <sub>Thanks to <a href="https://www.cityweft.com/">Cityweft</a> for providing the test .GLB file of Montreal shown here</sub> |
 
-Download the [latest release here](https://github.com/ara3d/ara3d-studio/releases). 
+---
+
+## Download & Install
+
+- Get the latest builds on the **[Releases](https://github.com/ara3d/ara3d-studio/releases)** page.
+- Supported OS: **Windows 10/11 (64-bit)**
+- Download the **.exe** into a directory and run into it. 
 
 ---
 
 ## About this repository
 
 This repository hosts:
-- **Releases** (installers and portable builds)
-- **Issue tracking** for Ara 3D Studio
-- **Roadmap** and announcements
-
----
-
-## Download & install
-
-- Get the latest builds on the **[Releases](https://github.com/ara3d/ara3d-studio/releases)** page.
-- Supported OS: **Windows 10/11 (64-bit)**
+- [**Releases**](https://github.com/ara3d/ara3d-studio/releases) - for installers and portable builds
+- [**Issues**](https://github.com/ara3d/ara3d-studio/issues) - for bugs, enhancements, 
 
 ---
 
