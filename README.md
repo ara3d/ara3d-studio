@@ -74,6 +74,13 @@ Our focus:
 
 ---
 
+## Troubleshooting
+
+If Ara 3D Studio fails silently, or the main window never shows, try launching the application from the command prompt (cmd.exe) or using power shell. 
+You will get a more useful error message.  
+
+---
+
 ## FAQ
 
 **Q: Why is this free?**  
