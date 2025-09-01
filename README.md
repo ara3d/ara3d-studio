@@ -10,6 +10,12 @@ The plugin and scripting ecosystem and geometry kernel is built on the fully ope
 
 ---
 
+## Status 
+
+**NOTE**: The previous release (made on August 28th) had a showstopper bug which is being fixed. The release has been removed and we will make a new one as soon as possible. 
+
+---
+
 ## Download & Install
 
 - Get the latest builds on the **[Releases](https://github.com/ara3d/ara3d-studio/releases)** page.
