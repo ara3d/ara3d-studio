@@ -1,10 +1,3 @@
-# Status: September 1st 2025 
-
-**NOTE**: The previous release (made on August 28th) had a showstopper bug which is being fixed. 
-The release has been removed and we will make a new one as soon as possible. 
-
----
-
 # Ara 3D Studio
 
 [**Ara 3D Studio**](https://github.com/ara3d/ara3d-studio/releases) is a free Windows desktop application for loading, viewing, and querying large 3D models such as those used in architecture, engineering, construction, and urban planning. You can load GLTF, GLB, VIM, DAE,  
@@ -14,6 +7,15 @@ The plugin and scripting ecosystem and geometry kernel is built on the fully ope
 | <img width="848" height="537" alt="Montreal GLB file" src="https://github.com/user-attachments/assets/f88d3144-adb4-4c3e-9d96-709f3c515afa" /> |
 |:--:|
 | <sub>Thanks to <a href="https://www.cityweft.com/">Cityweft</a> for providing the test .GLB file of Montreal shown here</sub> |
+
+---
+
+## Status
+
+Date | Version | Notes
+--- | --- | ---
+Sept 2 | v0.9.1 | New release with installer.  
+Aug 28 | v0.1 | Showstopper bug, release was deleted.  
 
 ---
 
