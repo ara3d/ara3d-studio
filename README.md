@@ -35,20 +35,9 @@ This repository hosts:
 
 ---
 
-## Registration
-
-Ara 3D Studio supports both personal and commercial use.  
-- **Commercial use:** requires a free registration (email + name) so we can issue a license and track installations.  
-- **Personal/non-commercial use:** no registration required.
-
-> If your organization needs offline activation or bulk deployment, contact **info@ara3d.com**.
-
----
-
 ## Privacy
 
-Ara 3D Studio does **not** collect usage analytics or model data.  
-The only data we store is what you provide during registration (email and a user name). 
+Ara 3D Studio does **not** send any of your data off of your computer. 
 
 ---
 
@@ -98,13 +87,10 @@ Architects, engineers, BIM/VDC teams, researchers, and developers who need to lo
 No. Ara 3D Studio is a **companion** for exploration, analysis, and validation. Keep using your authoring tools; use Ara 3D Studio to move faster when you need to inspect, query, or automate.
 
 **Q: Can I use this at work?**  
-Yes. It is free for commercial use. A no-cost registration is required to issue a commercial license.
+Yes. It is free for commercial or personal use.
 
 **Q: How does Ara 3D make money?**  
 Through commercial services, libraries, integrations, and enterprise support built around the SDK and Studio.
-
-**Q: What data leaves my machine?**  
-Only the registration details you explicitly provide (email and name) for commercial licenses. No telemetry or model data is sent.
 
 ---
 
