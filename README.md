@@ -1,8 +1,11 @@
 # Ara 3D Studio
 
-[**Ara 3D Studio**](https://github.com/ara3d/ara3d-studio/releases) is a free Windows desktop application for loading, viewing, and querying large 3D models such as those used in architecture, engineering, construction, and urban planning. You can load GLTF, GLB, VIM, DAE,  
+[**Ara 3D Studio**](https://github.com/ara3d/ara3d-studio/releases) is a free Windows desktop application for loading, viewing, 
+and querying large 3D models such as those used in architecture, engineering, construction, and urban planning. 
+You can load GLTF, GLB, VIM, DAE, TIFF files.  
 
-The plugin and scripting ecosystem and geometry kernel is built on the fully open-source and dependency free [Ara 3D SDK](https://github.com/ara3d/ara3d-sdk).
+The plugin and scripting ecosystem along with the geometry kernel and many core fetaures are built using the 
+fully open-source and dependency free [Ara 3D SDK](https://github.com/ara3d/ara3d-sdk).
 
 | <img width="848" height="537" alt="Montreal GLB file" src="https://github.com/user-attachments/assets/f88d3144-adb4-4c3e-9d96-709f3c515afa" /> |
 |:--:|
@@ -14,8 +17,9 @@ The plugin and scripting ecosystem and geometry kernel is built on the fully ope
 
 Date | Version | Notes
 --- | --- | ---
-Sept 2 | v0.9.1 | New release with installer.  
-Aug 28 | v0.1 | Showstopper bug, release was deleted.  
+Sept 3 | v0.9.2 | All dependencies seem to be present. First official beta! 
+Sept 2 | v0.9.1 | Missing files, release was deleted.  
+Aug 28 | v0.1 | Missing files, release was deleted.  
 
 ---
 
@@ -23,7 +27,13 @@ Aug 28 | v0.1 | Showstopper bug, release was deleted.
 
 - Get the latest builds on the **[Releases](https://github.com/ara3d/ara3d-studio/releases)** page.
 - Supported OS: **Windows 10/11 (64-bit)**
-- Download the **.exe** into a directory and run into it. 
+- Download and run the latest ** *.Setup.exe **
+- The default install location is `%localappdata%\Ara 3D\Ara 3D Studio\Ara 3D Studio.exe`. 
+
+If you have multiple GPUs, we suggest opening the Control Panel and choosing the GPU preference "High Performance" 
+unsder `System > Display > Graphics`  
+
+- <img width="1020" height="490" alt="image" src="https://github.com/user-attachments/assets/457530df-2748-455d-b43a-ec0a705e4196" /> 
 
 ---
 
@@ -31,7 +41,7 @@ Aug 28 | v0.1 | Showstopper bug, release was deleted.
 
 This repository hosts:
 - [**Releases**](https://github.com/ara3d/ara3d-studio/releases) - for installers and portable builds
-- [**Issues**](https://github.com/ara3d/ara3d-studio/issues) - for bugs, enhancements, 
+- [**Issues**](https://github.com/ara3d/ara3d-studio/issues) - for bugs, enhancements, and tasks.
 
 ---
 
@@ -78,6 +88,7 @@ You will get a more useful error message.
 Ara 3D Studio helps us validate the SDK and core algorithms with real projects. Making it free lowers the barrier to adoption, improves feedback loops, and grows the ecosystem that the SDK enables.
 
 **Q: Why isn’t the app open-source?**  
+Many of the most important components are open-source (see https://github.com/ara3d/ara3d-sdk).  
 We keep the app closed to protect years of R&D and to ship a consistent, reliable experience. We keep the **SDK open** so anyone can build plug-ins, scripts, and integrations.
 
 **Q: Who is it for?**  
