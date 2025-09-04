@@ -15,6 +15,13 @@ fully open-source and dependency free [Ara 3D SDK](https://github.com/ara3d/ara3
 
 ## Status
 
+[Known Bugs]([is:issue state:open type:Bug](https://github.com/ara3d/ara3d-studio/issues?q=is%3Aissue%20state%3Aopen%20type%3ABug))
+[Planned Enhancements)(https://github.com/ara3d/ara3d-studio/issues?q=is%3Aissue%20state%3Aopen%20type%3AImprovement)
+
+-- 
+
+## History
+
 Date | Version | Notes
 --- | --- | ---
 Sept 3 | v0.9.2 | All dependencies seem to be present. First official beta! 
@@ -31,9 +38,9 @@ Aug 28 | v0.1 | Missing files, release was deleted.
 - The default install location is `%localappdata%\Ara 3D\Ara 3D Studio\Ara 3D Studio.exe`. 
 
 If you have multiple GPUs, we suggest opening the Control Panel and choosing the GPU preference "High Performance" 
-unsder `System > Display > Graphics`  
+under `System > Display > Graphics`  
 
-- <img width="1020" height="490" alt="image" src="https://github.com/user-attachments/assets/457530df-2748-455d-b43a-ec0a705e4196" /> 
+<img width="1020" height="490" alt="image" src="https://github.com/user-attachments/assets/457530df-2748-455d-b43a-ec0a705e4196" /> 
 
 ---
 
