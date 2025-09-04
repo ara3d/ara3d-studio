@@ -15,10 +15,10 @@ fully open-source and dependency free [Ara 3D SDK](https://github.com/ara3d/ara3
 
 ## Status
 
-[Known Bugs]([is:issue state:open type:Bug](https://github.com/ara3d/ara3d-studio/issues?q=is%3Aissue%20state%3Aopen%20type%3ABug))
-[Planned Enhancements)(https://github.com/ara3d/ara3d-studio/issues?q=is%3Aissue%20state%3Aopen%20type%3AImprovement)
+- [Known Bugs](https://github.com/ara3d/ara3d-studio/issues?q=is%3Aissue%20state%3Aopen%20type%3ABug)
+- [Planned Enhancements](https://github.com/ara3d/ara3d-studio/issues?q=is%3Aissue%20state%3Aopen%20type%3AImprovement)
 
--- 
+---
 
 ## History
 
@@ -62,11 +62,8 @@ Ara 3D Studio does **not** send any of your data off of your computer.
 
 - Load common 3D formats: **glTF (GLB/GLTF), IFC, VIM, OBJ, STL, Collada (DAE)**
 - Inspect and navigate large models interactively
-- Run **C# scripts** and **plug-ins** via the open SDK
+- Run **C# scripts** via the open SDK
 - Create **parametric geometry** and apply **parametric modifiers**
-- Data-driven workflows aimed at fast iteration and validation
-
-*(For planned features and priorities, see the roadmap.)*
 
 ---
 
