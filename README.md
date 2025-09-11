@@ -2,7 +2,7 @@
 
 [**Ara 3D Studio**](https://github.com/ara3d/ara3d-studio/releases) is a free Windows desktop application for loading, viewing, 
 and querying large 3D models such as those used in architecture, engineering, construction, and urban planning. 
-You can load GLTF, GLB, VIM, DAE, TIFF files.  
+You can load GLB, IFC, VIM, DAE, TIFF files and more.  
 
 The plugin and scripting ecosystem along with the geometry kernel and many core fetaures are built using the 
 fully open-source and dependency free [Ara 3D SDK](https://github.com/ara3d/ara3d-sdk).
