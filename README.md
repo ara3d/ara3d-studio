@@ -22,8 +22,11 @@ fully open-source and dependency free [Ara 3D SDK](https://github.com/ara3d/ara3
 
 ## History
 
+The latest and historical releases can be [found here]((https://github.com/ara3d/ara3d-studio/releases). 
+
 Date | Version | Notes
 --- | --- | ---
+Sept 12 | v0.9.3 | Performance improvements, and various small fixes and enhancements. 
 Sept 3 | v0.9.2 | All dependencies seem to be present. First official beta! 
 Sept 2 | v0.9.1 | Missing files, release was deleted.  
 Aug 28 | v0.1 | Missing files, release was deleted.  
