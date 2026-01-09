@@ -1,8 +1,7 @@
 # Ara 3D Studio
 
 [**Ara 3D Studio**](https://github.com/ara3d/ara3d-studio/releases) is a free Windows desktop application for loading, viewing, 
-and querying large 3D models such as those used in architecture, engineering, construction, and urban planning. 
-You can load GLB, IFC, VIM, DAE, TIFF files and more.  
+and querying large 3D models. You can load GLB, GLTF, IFC, BOS, STL, OBJ, and GeoTIFF files. You can export binary glTF (.GLB) files 
 
 The plugin and scripting ecosystem along with the geometry kernel and many core fetaures are built using the 
 fully open-source and dependency free [Ara 3D SDK](https://github.com/ara3d/ara3d-sdk).
@@ -26,6 +25,7 @@ The latest and historical releases can be [found here]((https://github.com/ara3d
 
 Date | Version | Notes
 --- | --- | ---
+Jan 5 | v0.9.4 | Better performance, bundled with Revit .BOS exporter, GLB export 
 Sept 12 | v0.9.3 | Performance improvements, and various small fixes and enhancements. 
 Sept 3 | v0.9.2 | All dependencies seem to be present. First official beta! 
 Sept 2 | v0.9.1 | Missing files, release was deleted.  
@@ -38,7 +38,7 @@ Aug 28 | v0.1 | Missing files, release was deleted.
 - Get the latest builds on the **[Releases](https://github.com/ara3d/ara3d-studio/releases)** page.
 - Supported OS: **Windows 10/11 (64-bit)**
 - Download and run the latest ** *.Setup.exe **
-- The default install location is `%localappdata%\Ara 3D\Ara 3D Studio\Ara 3D Studio.exe`. 
+- The default install location is `%localappdata%\Ara 3D\Ara 3D Studio\ara3d.exe`. 
 
 If you have multiple GPUs, we suggest opening the Control Panel and choosing the GPU preference "High Performance" 
 under `System > Display > Graphics`  
