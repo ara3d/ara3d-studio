@@ -6,8 +6,8 @@ and querying large 3D models. You can load GLB, GLTF, IFC, BOS, STL, OBJ, and Ge
 The plugin and scripting ecosystem along with the geometry kernel and many core fetaures are built using the 
 fully open-source and dependency free [Ara 3D SDK](https://github.com/ara3d/ara3d-sdk).
 
-| <img width="848" height="537" alt="Montreal GLB file" src="https://github.com/user-attachments/assets/f88d3144-adb4-4c3e-9d96-709f3c515afa" /> |
-|:--:|
+<img width="1280" height="720" alt="ara3d-viewer" src="https://github.com/user-attachments/assets/74af3d50-ba35-4113-b1ed-83c307ae69e4" />
+
 | <sub>Thanks to <a href="https://www.cityweft.com/">Cityweft</a> for providing the test .GLB file of Montreal shown here</sub> |
 
 ---
